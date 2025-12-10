@@ -1,8 +1,8 @@
 <div align='center'>
 <img alt="Atos Logo" src="assets/atos-logo.png?raw=true" width="300px">
-
-<h1>Atos Actions</h1>
 </div>
+
+# Atos Actions
 
 We are building GitHub Actions for the Atos organization and the open source community.
 
