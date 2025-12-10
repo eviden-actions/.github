@@ -1,40 +1,62 @@
 <div align='center'>
-<img alt="Atos" src="assets/atos-logo.png?raw=true" width="300px">
+<img alt="Atos Logo" src="assets/atos-logo.png?raw=true" width="300px">
 
-<h1>Actions</h1>
+<h1>Atos Actions</h1>
 </div>
 
-We are building Github Actions for the Atos organization and the OpenSource community.
+We are building GitHub Actions for the Atos organization and the open source community.
+
+## 🔍 Using Our Actions
+
+### For Everyone
+
+Browse our public actions on the [GitHub Marketplace](https://github.com/marketplace?query=eviden-actions) to find reusable workflows and actions published by Atos Actions.
+
+### For Atos Developers
+
+Internal actions are available within the [**Atos** GitHub Enterprise](https://github.com/enterprises/atos-international). These actions are set to **Internal** visibility and can be used across Atos organizations.
 
 ## 🧑‍💻 Contributing
 
 We encourage you to contribute to **Atos Actions**! Please check out the [Contributing guide](https://github.com/eviden-actions/.github/blob/main/CONTRIBUTING.md) for guidelines about how to proceed.
 
-Make sure to follow our [code of conduct](https://github.com/eviden-actions/.github/blob/main/CODE_OF_CONDUCT.md)
+Make sure to follow our [code of conduct](https://github.com/eviden-actions/.github/blob/main/CODE_OF_CONDUCT.md).
 
-## 🆕 Create new actions and workflows
+## 🆕 Create New Actions and Workflows
 
-You have an idea for a new action or workflow that you'd like to develop?!
-First of all, the same action/workflow or a pretty similar one doesn't already exist.
-If you're unsure, check with the [Maintainers](https://github.com/orgs/eviden-actions/teams/maintainers)
+Have an idea for a new action or workflow? Follow these steps:
 
-To proceed with your idea create a new repository and follow the [custom actions docs](https://docs.github.com/en/actions/creating-actions/about-custom-actions).
+### 1. 💡 Share Your Idea
 
-> [!NOTE]
-> Setting the repository visibility to **Internal** is one of the requirements to make the actions available to other **Atos** Organizations
+Before creating anything, **share your idea as a discussion** in our [Ideas category](https://github.com/orgs/eviden-actions/discussions/categories/ideas). This allows the community to:
+- Provide feedback and suggestions
+- Identify similar existing actions
+- Help refine your concept
+- Avoid duplicate efforts
 
-### 🧺 Public actions and GitHub Marketplace
+### 2. 🏗️ Choose Repository Type
 
-Some actions might be useful to our customers, outside of the scope of the [**Atos** GitHub Enterprise](https://github.com/enterprises/atos-international)...
+Based on your action's intended audience:
 
-In order to do so, you will have to determine:
+#### **Internal Actions (Atos Only)**
 
-- That your action doesn't contain any **Atos** intelectual property and its code can be made public
-- Which license model the code should be published under
-- Whether or not you would like to promote your action by [publishing it to the GitHub Marketplace](https://docs.github.com/en/actions/creating-actions/publishing-actions-in-github-marketplace)
+For actions intended for internal Atos use only:
+- Create the repository with **Internal** visibility
+- This makes the action available to all Atos organizations
+- No additional approval needed from maintainers
+- Follow the [custom actions docs](https://docs.github.com/en/actions/creating-actions/about-custom-actions)
 
-Once clarified, contact the [Maintainers](https://github.com/orgs/eviden-actions/teams/maintainers) to start the validation process
+#### **Public Actions (Community)**
+
+For actions that could benefit the broader community:
+- **First, check with the [Maintainers](https://github.com/orgs/eviden-actions/teams/maintainers)** before creating a public repository
+- Ensure your action doesn't contain any Atos intellectual property
+- Determine the appropriate open source license
+- Consider [publishing to the GitHub Marketplace](https://docs.github.com/en/actions/creating-actions/publishing-actions-in-github-marketplace) for wider visibility
+
+> [!IMPORTANT]
+> Always discuss your idea first and get maintainer approval before creating public repositories.
 
 ## 🤝 Community
 
-If you have questions, join the conversations in our [Message Board](https://github.com/orgs/eviden-actions/discussions)
+If you have questions, join the conversations in our [Message Board](https://github.com/orgs/eviden-actions/discussions).
