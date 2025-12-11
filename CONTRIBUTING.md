@@ -2,7 +2,7 @@
 
 :+1::tada: Hi there! We're thrilled that you'd like to contribute to this project. Your help is essential for keeping it great. :tada::+1:
 
-The following is a set of guidelines for contributing to **EVIDEN Actions**, which are hosted in the [eviden-actions organization](https://github.com/eviden-actions) on GitHub.
+The following is a set of guidelines for contributing to **EVIDEN Actions**, which are hosted in the [atos-actions organization](https://github.com/atos-actions) on GitHub.
 These are mostly guidelines, not rules. Use your best judgment, and feel free to propose changes to this document in a pull request.
 
 ## Code of Conduct
@@ -15,7 +15,7 @@ This project and everyone participating in it is governed by the [Atom Code of C
 
 We have an official message board where the community chimes in with helpful advice if you have questions.
 
-- [Github Discussions, the official **EVIDEN Actions** message board](https://github.com/orgs/eviden-actions/discussions)
+- [Github Discussions, the official **EVIDEN Actions** message board](https://github.com/orgs/atos-actions/discussions)
 
 ## How Can I Contribute?
 
@@ -23,19 +23,19 @@ We have an official message board where the community chimes in with helpful adv
 
 This section guides you through submitting a bug report for **EVIDEN Actions**. Following these guidelines helps maintainers and the community understand your report :pencil:, reproduce the behavior :computer: :computer:, and find related reports :mag_right:.
 
-Before creating bug reports, please check [this list](#before-submitting-a-bug-report) as you might find out that you don't need to create one. When you are creating a bug report, please [include as many details as possible](#how-do-i-submit-a-good-bug-report). Fill out [the required template](https://github.com/eviden-actions/.github/blob/master/.github/ISSUE_TEMPLATE/bug-report.yml), the information it asks for helps us resolve issues faster.
+Before creating bug reports, please check [this list](#before-submitting-a-bug-report) as you might find out that you don't need to create one. When you are creating a bug report, please [include as many details as possible](#how-do-i-submit-a-good-bug-report). Fill out [the required template](https://github.com/atos-actions/.github/blob/master/.github/ISSUE_TEMPLATE/bug-report.yml), the information it asks for helps us resolve issues faster.
 
 > **Note:** If you find a **Closed** issue that seems like it is the same thing that you're experiencing, open a new issue and include a link to the original issue in the body of your new one.
 
 #### Before Submitting A Bug Report
 
-- **Check the [discussions](https://github.com/orgs/eviden-actions/discussions)** for a list of common questions and problems.
-- **Determine [which repository the problem should be reported in](https://github.com/orgs/eviden-actions/repositories)**.
-- **Perform a [cursory search](https://github.com/search?q=+is%3Aissue+org%3Aeviden-actions** to see if the problem has already been reported. If it has **and the issue is still open**, add a comment to the existing issue instead of opening a new one.
+- **Check the [discussions](https://github.com/orgs/atos-actions/discussions)** for a list of common questions and problems.
+- **Determine [which repository the problem should be reported in](https://github.com/orgs/atos-actions/repositories)**.
+- **Perform a [cursory search](https://github.com/search?q=+is%3Aissue+org%3Aatos-actions** to see if the problem has already been reported. If it has **and the issue is still open**, add a comment to the existing issue instead of opening a new one.
 
 #### How Do I Submit A (Good) Bug Report?
 
-Bugs are tracked as [GitHub issues](https://guides.github.com/features/issues/). After you've determined [which repository](https://github.com/orgs/eviden-actions/repositories) your bug is related to, create an issue on that repository and provide the following information by filling in [the template](https://github.com/eviden-actions/.github/blob/master/.github/ISSUE_TEMPLATE/bug-report.yml).
+Bugs are tracked as [GitHub issues](https://guides.github.com/features/issues/). After you've determined [which repository](https://github.com/orgs/atos-actions/repositories) your bug is related to, create an issue on that repository and provide the following information by filling in [the template](https://github.com/atos-actions/.github/blob/master/.github/ISSUE_TEMPLATE/bug-report.yml).
 
 Explain the problem and include additional details to help maintainers reproduce the problem:
 
@@ -62,16 +62,16 @@ Include details about your configuration and environment:
 
 This section guides you through submitting an enhancement suggestion for **EVIDEN Actions**, including completely new features and minor improvements to existing functionality. Following these guidelines helps maintainers and the community understand your suggestion :pencil: and find related suggestions :mag_right:.
 
-Before creating enhancement suggestions, please check [this list](#before-submitting-an-enhancement-suggestion) as you might find out that you don't need to create one. When you are creating an enhancement suggestion, please [include as many details as possible](#how-do-i-submit-a-good-enhancement-suggestion). Fill in the correct template for [feature request](https://github.com/eviden-actions/.github/blob/master/.github/ISSUE_TEMPLATE/feature-request.yml) and [enhancement](https://github.com/eviden-actions/.github/blob/master/.github/ISSUE_TEMPLATE/enhancement.yml), including the steps that you imagine you would take if the feature you're requesting existed.
+Before creating enhancement suggestions, please check [this list](#before-submitting-an-enhancement-suggestion) as you might find out that you don't need to create one. When you are creating an enhancement suggestion, please [include as many details as possible](#how-do-i-submit-a-good-enhancement-suggestion). Fill in the correct template for [feature request](https://github.com/atos-actions/.github/blob/master/.github/ISSUE_TEMPLATE/feature-request.yml) and [enhancement](https://github.com/atos-actions/.github/blob/master/.github/ISSUE_TEMPLATE/enhancement.yml), including the steps that you imagine you would take if the feature you're requesting existed.
 
 #### Before Submitting An Enhancement Suggestion
 
-- **Determine [which repository the enhancement should be suggested in](https://github.com/orgs/eviden-actions/repositories)**.
-- **Perform a [cursory search](https://github.com/search?q=+is%3Aissue+org%3Aeviden-actions** to see if the enhancement has already been suggested. If it has, add a comment to the existing issue instead of opening a new one.
+- **Determine [which repository the enhancement should be suggested in](https://github.com/orgs/atos-actions/repositories)**.
+- **Perform a [cursory search](https://github.com/search?q=+is%3Aissue+org%3Aatos-actions** to see if the enhancement has already been suggested. If it has, add a comment to the existing issue instead of opening a new one.
 
 #### How Do I Submit A (Good) Enhancement Suggestion?
 
-Enhancement suggestions are tracked as [GitHub issues](https://guides.github.com/features/issues/). After you've determined [which repository](https://github.com/orgs/eviden-actions/repositories) your enhancement suggestion is related to, create an issue on that repository and provide the following information:
+Enhancement suggestions are tracked as [GitHub issues](https://guides.github.com/features/issues/). After you've determined [which repository](https://github.com/orgs/atos-actions/repositories) your enhancement suggestion is related to, create an issue on that repository and provide the following information:
 
 - **Use a clear and descriptive title** for the issue to identify the suggestion.
 - **Provide a step-by-step description of the suggested enhancement** in as many details as possible.
@@ -85,7 +85,7 @@ Enhancement suggestions are tracked as [GitHub issues](https://guides.github.com
 
 ### Your First Code Contribution
 
-Unsure where to begin contributing to **EVIDEN Actions**? You can start by looking through these [🆘 help wanted](https://github.com/search?q=org%3Aeviden-actions+type%3Aissues+label%3A%F0%9F%86%98+help+wanted) issues:
+Unsure where to begin contributing to **EVIDEN Actions**? You can start by looking through these [🆘 help wanted](https://github.com/search?q=org%3Aatos-actions+type%3Aissues+label%3A%F0%9F%86%98+help+wanted) issues:
 
 ### Pull Requests
 
