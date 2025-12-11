@@ -10,7 +10,7 @@ We are building GitHub Actions for the Atos organization and the open source com
 
 ### For Everyone
 
-Browse our public actions on the [GitHub Marketplace](https://github.com/marketplace?query=eviden-actions) to find reusable workflows and actions published by Atos Actions.
+Browse our public actions on the [GitHub Marketplace](https://github.com/marketplace?query=atos-actions) to find reusable workflows and actions published by Atos Actions.
 
 ### For Atos Developers
 
@@ -18,9 +18,9 @@ Internal actions are available within the [**Atos** GitHub Enterprise](https://g
 
 ## 🧑‍💻 Contributing
 
-We encourage you to contribute to **Atos Actions**! Please check out the [Contributing guide](https://github.com/eviden-actions/.github/blob/main/CONTRIBUTING.md) for guidelines about how to proceed.
+We encourage you to contribute to **Atos Actions**! Please check out the [Contributing guide](https://github.com/atos-actions/.github/blob/main/CONTRIBUTING.md) for guidelines about how to proceed.
 
-Make sure to follow our [code of conduct](https://github.com/eviden-actions/.github/blob/main/CODE_OF_CONDUCT.md).
+Make sure to follow our [code of conduct](https://github.com/atos-actions/.github/blob/main/CODE_OF_CONDUCT.md).
 
 ## 🆕 Create New Actions and Workflows
 
@@ -28,7 +28,7 @@ Have an idea for a new action or workflow? Follow these steps:
 
 ### 1. 💡 Share Your Idea
 
-Before creating anything, **share your idea as a discussion** in our [Ideas category](https://github.com/orgs/eviden-actions/discussions/categories/ideas). This allows the community to:
+Before creating anything, **share your idea as a discussion** in our [Ideas category](https://github.com/orgs/atos-actions/discussions/categories/ideas). This allows the community to:
 - Provide feedback and suggestions
 - Identify similar existing actions
 - Help refine your concept
@@ -49,7 +49,7 @@ For actions intended for internal Atos use only:
 #### **Public Actions (Community)**
 
 For actions that could benefit the broader community:
-- **First, check with the [Maintainers](https://github.com/orgs/eviden-actions/teams/maintainers)** before creating a public repository
+- **First, check with the [Maintainers](https://github.com/orgs/atos-actions/teams/maintainers)** before creating a public repository
 - Ensure your action doesn't contain any Atos intellectual property
 - Determine the appropriate open source license
 - Consider [publishing to the GitHub Marketplace](https://docs.github.com/en/actions/creating-actions/publishing-actions-in-github-marketplace) for wider visibility
@@ -59,4 +59,4 @@ For actions that could benefit the broader community:
 
 ## 🤝 Community
 
-If you have questions, join the conversations in our [Message Board](https://github.com/orgs/eviden-actions/discussions).
+If you have questions, join the conversations in our [Message Board](https://github.com/orgs/atos-actions/discussions).

@@ -2,7 +2,7 @@
 
 :+1::tada: Hi there! We're thrilled that you'd like to contribute to this project. Your help is essential for keeping it great. :tada::+1:
 
-The following is a set of guidelines for contributing to **EVIDEN Actions**, which are hosted in the [eviden-actions organization](https://github.com/eviden-actions) on GitHub.
+The following is a set of guidelines for contributing to **Atos Actions**, which are hosted in the [atos-actions organization](https://github.com/atos-actions) on GitHub.
 These are mostly guidelines, not rules. Use your best judgment, and feel free to propose changes to this document in a pull request.
 
 ## Code of Conduct
@@ -15,32 +15,32 @@ This project and everyone participating in it is governed by the [Atom Code of C
 
 We have an official message board where the community chimes in with helpful advice if you have questions.
 
-- [Github Discussions, the official **EVIDEN Actions** message board](https://github.com/orgs/eviden-actions/discussions)
+- [Github Discussions, the official **Atos Actions** message board](https://github.com/orgs/atos-actions/discussions)
 
 ## How Can I Contribute?
 
 ### Reporting Bugs
 
-This section guides you through submitting a bug report for **EVIDEN Actions**. Following these guidelines helps maintainers and the community understand your report :pencil:, reproduce the behavior :computer: :computer:, and find related reports :mag_right:.
+This section guides you through submitting a bug report for **Atos Actions**. Following these guidelines helps maintainers and the community understand your report :pencil:, reproduce the behavior :computer: :computer:, and find related reports :mag_right:.
 
-Before creating bug reports, please check [this list](#before-submitting-a-bug-report) as you might find out that you don't need to create one. When you are creating a bug report, please [include as many details as possible](#how-do-i-submit-a-good-bug-report). Fill out [the required template](https://github.com/eviden-actions/.github/blob/master/.github/ISSUE_TEMPLATE/bug-report.yml), the information it asks for helps us resolve issues faster.
+Before creating bug reports, please check [this list](#before-submitting-a-bug-report) as you might find out that you don't need to create one. When you are creating a bug report, please [include as many details as possible](#how-do-i-submit-a-good-bug-report). Fill out [the required template](https://github.com/atos-actions/.github/blob/master/.github/ISSUE_TEMPLATE/bug-report.yml), the information it asks for helps us resolve issues faster.
 
 > **Note:** If you find a **Closed** issue that seems like it is the same thing that you're experiencing, open a new issue and include a link to the original issue in the body of your new one.
 
 #### Before Submitting A Bug Report
 
-- **Check the [discussions](https://github.com/orgs/eviden-actions/discussions)** for a list of common questions and problems.
-- **Determine [which repository the problem should be reported in](https://github.com/orgs/eviden-actions/repositories)**.
-- **Perform a [cursory search](https://github.com/search?q=+is%3Aissue+org%3Aeviden-actions** to see if the problem has already been reported. If it has **and the issue is still open**, add a comment to the existing issue instead of opening a new one.
+- **Check the [discussions](https://github.com/orgs/atos-actions/discussions)** for a list of common questions and problems.
+- **Determine [which repository the problem should be reported in](https://github.com/orgs/atos-actions/repositories)**.
+- **Perform a [cursory search](https://github.com/search?q=+is%3Aissue+org%3Aatos-actions** to see if the problem has already been reported. If it has **and the issue is still open**, add a comment to the existing issue instead of opening a new one.
 
 #### How Do I Submit A (Good) Bug Report?
 
-Bugs are tracked as [GitHub issues](https://guides.github.com/features/issues/). After you've determined [which repository](https://github.com/orgs/eviden-actions/repositories) your bug is related to, create an issue on that repository and provide the following information by filling in [the template](https://github.com/eviden-actions/.github/blob/master/.github/ISSUE_TEMPLATE/bug-report.yml).
+Bugs are tracked as [GitHub issues](https://guides.github.com/features/issues/). After you've determined [which repository](https://github.com/orgs/atos-actions/repositories) your bug is related to, create an issue on that repository and provide the following information by filling in [the template](https://github.com/atos-actions/.github/blob/master/.github/ISSUE_TEMPLATE/bug-report.yml).
 
 Explain the problem and include additional details to help maintainers reproduce the problem:
 
 - **Use a clear and descriptive title** for the issue to identify the problem.
-- **Describe the exact steps which reproduce the problem** in as many details as possible. For example, start by explaining how you use **EVIDEN Actions**, e.g. which command exactly you used, or how you included **EVIDEN Actions** otherwise. When listing steps, **don't just say what you did, but explain how you did it**.
+- **Describe the exact steps which reproduce the problem** in as many details as possible. For example, start by explaining how you use **Atos Actions**, e.g. which command exactly you used, or how you included **Atos Actions** otherwise. When listing steps, **don't just say what you did, but explain how you did it**.
 - **Provide specific examples to demonstrate the steps**. Include links to files or GitHub projects, or copy/pasteable snippets, which you use in those examples. If you're providing snippets in the issue, use [Markdown code blocks](https://help.github.com/articles/markdown-basics/#multiple-lines).
 - **Describe the behavior you observed after following the steps** and point out what exactly is the problem with that behavior.
 - **Explain which behavior you expected to see instead and why.**
@@ -49,52 +49,52 @@ Explain the problem and include additional details to help maintainers reproduce
 Provide more context by answering these questions:
 
 - **Can you reproduce the problem?**
-- **Did the problem start happening recently** (e.g. after updating to a new version of **EVIDEN Actions**) or was this always a problem?
-- If the problem started happening recently, **can you reproduce the problem in an older version of EVIDEN Actions?** What's the most recent version in which the problem doesn't happen?
+- **Did the problem start happening recently** (e.g. after updating to a new version of **Atos Actions**) or was this always a problem?
+- If the problem started happening recently, **can you reproduce the problem in an older version of Atos Actions?** What's the most recent version in which the problem doesn't happen?
 - **Can you reliably reproduce the issue?** If not, provide details about how often the problem happens and under which conditions it normally happens.
 
 Include details about your configuration and environment:
 
-- **Which version of EVIDEN Actions are you using?**
+- **Which version of Atos Actions are you using?**
 - **What's the name and version of the OS you're using**?
 
 ### Suggesting Enhancements
 
-This section guides you through submitting an enhancement suggestion for **EVIDEN Actions**, including completely new features and minor improvements to existing functionality. Following these guidelines helps maintainers and the community understand your suggestion :pencil: and find related suggestions :mag_right:.
+This section guides you through submitting an enhancement suggestion for **Atos Actions**, including completely new features and minor improvements to existing functionality. Following these guidelines helps maintainers and the community understand your suggestion :pencil: and find related suggestions :mag_right:.
 
-Before creating enhancement suggestions, please check [this list](#before-submitting-an-enhancement-suggestion) as you might find out that you don't need to create one. When you are creating an enhancement suggestion, please [include as many details as possible](#how-do-i-submit-a-good-enhancement-suggestion). Fill in the correct template for [feature request](https://github.com/eviden-actions/.github/blob/master/.github/ISSUE_TEMPLATE/feature-request.yml) and [enhancement](https://github.com/eviden-actions/.github/blob/master/.github/ISSUE_TEMPLATE/enhancement.yml), including the steps that you imagine you would take if the feature you're requesting existed.
+Before creating enhancement suggestions, please check [this list](#before-submitting-an-enhancement-suggestion) as you might find out that you don't need to create one. When you are creating an enhancement suggestion, please [include as many details as possible](#how-do-i-submit-a-good-enhancement-suggestion). Fill in the correct template for [feature request](https://github.com/atos-actions/.github/blob/master/.github/ISSUE_TEMPLATE/feature-request.yml) and [enhancement](https://github.com/atos-actions/.github/blob/master/.github/ISSUE_TEMPLATE/enhancement.yml), including the steps that you imagine you would take if the feature you're requesting existed.
 
 #### Before Submitting An Enhancement Suggestion
 
-- **Determine [which repository the enhancement should be suggested in](https://github.com/orgs/eviden-actions/repositories)**.
-- **Perform a [cursory search](https://github.com/search?q=+is%3Aissue+org%3Aeviden-actions** to see if the enhancement has already been suggested. If it has, add a comment to the existing issue instead of opening a new one.
+- **Determine [which repository the enhancement should be suggested in](https://github.com/orgs/atos-actions/repositories)**.
+- **Perform a [cursory search](https://github.com/search?q=+is%3Aissue+org%3Aatos-actions** to see if the enhancement has already been suggested. If it has, add a comment to the existing issue instead of opening a new one.
 
 #### How Do I Submit A (Good) Enhancement Suggestion?
 
-Enhancement suggestions are tracked as [GitHub issues](https://guides.github.com/features/issues/). After you've determined [which repository](https://github.com/orgs/eviden-actions/repositories) your enhancement suggestion is related to, create an issue on that repository and provide the following information:
+Enhancement suggestions are tracked as [GitHub issues](https://guides.github.com/features/issues/). After you've determined [which repository](https://github.com/orgs/atos-actions/repositories) your enhancement suggestion is related to, create an issue on that repository and provide the following information:
 
 - **Use a clear and descriptive title** for the issue to identify the suggestion.
 - **Provide a step-by-step description of the suggested enhancement** in as many details as possible.
 - **Provide specific examples to demonstrate the steps**. Include copy/pasteable snippets which you use in those examples, as [Markdown code blocks](https://help.github.com/articles/markdown-basics/#multiple-lines).
 - **Describe the current behavior** and **explain which behavior you expected to see instead** and why.
-- **Include screenshots and animated GIFs** which help you demonstrate the steps or point out the part of **EVIDEN Actions** which the suggestion is related to. You can use [this tool](https://www.cockos.com/licecap/) to record GIFs on macOS and Windows, and [this tool](https://github.com/colinkeenan/silentcast) or [this tool](https://github.com/GNOME/byzanz) on Linux.
-- **Explain why this enhancement would be useful** to most **EVIDEN Actions** users and isn't something that can or should be implemented as a community package.
+- **Include screenshots and animated GIFs** which help you demonstrate the steps or point out the part of **Atos Actions** which the suggestion is related to. You can use [this tool](https://www.cockos.com/licecap/) to record GIFs on macOS and Windows, and [this tool](https://github.com/colinkeenan/silentcast) or [this tool](https://github.com/GNOME/byzanz) on Linux.
+- **Explain why this enhancement would be useful** to most **Atos Actions** users and isn't something that can or should be implemented as a community package.
 - **List some other design systems or applications where this enhancement exists.**
-- **Specify which version of **EVIDEN Actions** are you using?**
+- **Specify which version of **Atos Actions** are you using?**
 - **Specify the name and version of the OS you're using.**
 
 ### Your First Code Contribution
 
-Unsure where to begin contributing to **EVIDEN Actions**? You can start by looking through these [🆘 help wanted](https://github.com/search?q=org%3Aeviden-actions+type%3Aissues+label%3A%F0%9F%86%98+help+wanted) issues:
+Unsure where to begin contributing to **Atos Actions**? You can start by looking through these [🆘 help wanted](https://github.com/search?q=org%3Aatos-actions+type%3Aissues+label%3A%F0%9F%86%98+help+wanted) issues:
 
 ### Pull Requests
 
 The process described here has several goals:
 
-- Maintain **EVIDEN Actions**'s quality
+- Maintain **Atos Actions**'s quality
 - Fix problems that are important to users
-- Engage the community in working toward the best possible **EVIDEN Actions**
-- Enable a sustainable system for **EVIDEN Actions**'s maintainers to review contributions
+- Engage the community in working toward the best possible **Atos Actions**
+- Enable a sustainable system for **Atos Actions**'s maintainers to review contributions
 
 Please follow these steps to have your contribution considered by the maintainers:
 

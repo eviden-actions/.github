@@ -2,7 +2,7 @@
 
 Please follow the steps below to tell us about your contribution.
 
-**Please be sure to read the [contributor's guide](https://github.com/eviden-actions/.github/blob/main/CONTRIBUTING.md) before submitting any pull requests.**
+**Please be sure to read the [contributor's guide](https://github.com/atos-actions/.github/blob/main/CONTRIBUTING.md) before submitting any pull requests.**
 
 ### Requirements
 
